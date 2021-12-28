@@ -1,22 +1,23 @@
 @font-face {
-    font-family:Roboto;
-    src: url(https://fonts.google.com/specimen/Roboto#standard-styles);
+  font-family: Roboto;
+  src: url("Roboto_font/Roboto-Regular.ttf");
 }
-body{
-    font-family: Roboto;
+body {
+  font-family: Roboto;
 }
-#container1{
-    background-image: url("images/delaniB.jpg");
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    height:100vh;
-    width: 100%;
-    
+#container1 {
+  background-image: url("images/delaniB.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+  font-size: 1em;
 }
-#container2{
-    align-items: center;
-    justify-content: center;
-    padding-top: 17%;
-    text-align: center;
+#container2 {
+  align-items: center;
+  justify-content: center;
+  padding-top: 17%;
+  text-align: center;
+  font-size: 25px
 }
