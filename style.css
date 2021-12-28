@@ -8,7 +8,8 @@ body {
 #container1 {
   background-image: url("images/delaniB.jpg");
   background-position: center;
-  background-size: cover;
+  background-size: contain;
+  background-size: 100% 100%;
   background-repeat: no-repeat;
   height: 100vh;
   width: 100%;
@@ -20,4 +21,14 @@ body {
   padding-top: 17%;
   text-align: center;
   font-size: 25px
+}
+#container4{
+  background-image: url("images/delaniA.jpg");
+  height: 50vh;
+  width: 100%;
+  background-position: center;
+  background-size: contain;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+ 
 }
