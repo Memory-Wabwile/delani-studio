@@ -39,7 +39,7 @@ body {
   text-align: center;
   height: auto;
 }
-#about2{
+/* #about2{
   align-items: center;
   text-align: center;
   height: auto;
@@ -49,9 +49,16 @@ body {
   align-items: center;
   text-align: center;
   height: auto;
-}
+} */
 #about1{
   width: 40%;
   height:15vh;
-  
+}
+#about4{
+  width: 40%;
+  height:15vh;
+}
+#about5{
+  width: 40%;
+  height:15vh;
 }
