@@ -68,3 +68,12 @@ body {
   padding-left: 14%;
   
 }
+#contact{
+  background-image: url("images/delaniC.jpg");
+  height: auto;
+  width: 100%;
+  background-position: center;
+  background-size: contain;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
