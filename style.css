@@ -80,7 +80,8 @@ body {
 }
 #inputName,
 #inputEmail,
-#inputMessage{
+#inputMessage,
+#btn{
   border: 1px solid white;
   background: transparent;
   color: white;
@@ -93,4 +94,7 @@ body {
 }
 #inputMessage{
   height: 26vh;
+}
+#btn{
+  height: 4vh;
 }
