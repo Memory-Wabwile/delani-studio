@@ -78,3 +78,19 @@ body {
   background-repeat: no-repeat;
   padding: 5% 10%;
 }
+#inputName,
+#inputEmail,
+#inputMessage{
+  border: 1px solid white;
+  background: transparent;
+  color: white;
+  height: 6vh;
+}
+#inputName::placeholder,
+#inputEmail::placeholder,
+#inputMessage::placeholder{
+  color: white;
+}
+#inputMessage{
+  height: 26vh;
+}
