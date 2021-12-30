@@ -98,3 +98,6 @@ body {
 #btn{
   height: 4vh;
 }
+#hidden1{
+  display: none;
+}
