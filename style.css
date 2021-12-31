@@ -86,6 +86,7 @@ body {
   background: transparent;
   color: white;
   height: 6vh;
+  font-size: 1.5em;
 }
 #inputName::placeholder,
 #inputEmail::placeholder,
@@ -97,27 +98,29 @@ body {
 }
 #btn{
   height: 4vh;
+  align-items: center;
 }
 #hidden1,
 #hidden2,
 #hidden3{
   display: none;
 }
-.dark{
+.title{
   font-size: 1em;
   border: 2px solid white;
-  padding: ;
-  position: relative;
+  padding-top:10px;
+  position: absolute;
   text-align: center;
-  height: 60%;
-  width: 80%;
-  margin: 1em;
-  font-size: 2em;
+  height: 70%;
+  width: 72%;
+  margin: 10%;
+  font-size: 1.5em;
   color: white;
-  transform: translate(-0%, -126%);
+  transform: translate(-0%, -130%);
   /* display: none; */
 }
-.darkicon{
-  position: absolute;
+#darkicon{
+  position: relative;
+
 }
 

@@ -23,4 +23,15 @@ $(document).ready(function(){
 //end of WHAT WE DO
 
 //PORTFOLIO
-$(document)
+$(document).ready(function(){
+    $("#darkicon").hover(function(){
+        $("#title").show();
+    });
+});
+
+//form validation
+$("form").on("submit", function(e) {
+    e.preventDefault();
+            var name = $("#inputName").val()
+    alert("Hello" +" "+ name + ",\nWe have received your message. "+ "\nThank you for contacting us at Delani Studio.")
+    });
