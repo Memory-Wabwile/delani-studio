@@ -98,7 +98,9 @@ body {
 #btn{
   height: 4vh;
 }
-#hidden1{
+#hidden1,
+#hidden2,
+#hidden3{
   display: none;
 }
 .dark{
@@ -113,9 +115,9 @@ body {
   font-size: 2em;
   color: white;
   transform: translate(-0%, -126%);
-  display: none;
+  /* display: none; */
 }
 .darkicon{
-  position: relative;
+  position: absolute;
 }
 
