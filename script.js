@@ -28,10 +28,20 @@ $(document).ready(function(){
         $("#title").show();
     });
 });
+//end of portfolio
 
 //form validation
+var form
 $("form").on("submit", function(e) {
     e.preventDefault();
             var name = $("#inputName").val()
     alert("Hello" +" "+ name + ",\nWe have received your message. "+ "\nThank you for contacting us at Delani Studio.")
+
+    form.addEventListener("submit" , function(e){
+        e.preventDefault();
+        document.form.inputName.value="";
+        document.form.inputEmail.value="";
+        document.form.inputMessage.value ="";
+    })
+    
     });
