@@ -148,7 +148,7 @@ body {
 #buttons:hover,
 #burned:hover,
 #bailey:hover{
-  filter: brightness(20%);
+  filter: brightness(35%);
 }
 /* #darkicon:hover{
   opacity: 0.7;
