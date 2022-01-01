@@ -22,12 +22,56 @@ $(document).ready(function(){
 
 //end of WHAT WE DO
 
-//PORTFOLIO
-$(document).ready(function(){
-    $("#darkicon").hover(function(){
-        $("#title").show();
-    });
+
+$('#darkicon').hover( function() {
+    $(this).find('.title').fadeIn(300);
+}, function() {
+    $(this).find('.title').fadeOut(100);
 });
+
+$('#ontario').hover( function() {
+    $(this).find('.title2').fadeIn(300);
+}, function() {
+    $(this).find('.title2').fadeOut(100);
+});
+
+$('#orange').hover( function() {
+    $(this).find('.title3').fadeIn(300);
+}, function() {
+    $(this).find('.title3').fadeOut(100);
+});
+
+$('#carrey').hover( function() {
+    $(this).find('.title4').fadeIn(300);
+}, function() {
+    $(this).find('.title4').fadeOut(100);
+});
+
+$('#goodday').hover( function() {
+    $(this).find('.title5').fadeIn(300);
+}, function() {
+    $(this).find('.title5').fadeOut(100);
+});
+
+$('#buttons').hover( function() {
+    $(this).find('.title6').fadeIn(300);
+}, function() {
+    $(this).find('.title6').fadeOut(100);
+});
+
+$('#burned').hover( function() {
+    $(this).find('.title7').fadeIn(300);
+}, function() {
+    $(this).find('.title7').fadeOut(100);
+});
+
+$('#bailey').hover( function() {
+    $(this).find('.title8').fadeIn(300);
+}, function() {
+    $(this).find('.title8').fadeOut(100);
+});
+
+
 //end of portfolio
 
 //form validation
