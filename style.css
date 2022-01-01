@@ -117,12 +117,16 @@ body {
   font-size: 1.5em;
   color: white;
   transform: translate(-0%, -130%);
-  /* display: none; */
+  display: none;
 }
 #darkicon{
   position: relative;
 
 }
+#darkicon:hover{
+  opacity: 0.5;
+}
+
 #footer{
   padding-left:1% ;
 }
