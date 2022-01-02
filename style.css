@@ -14,6 +14,7 @@ body {
   height: 100vh;
   width: 100%;
   font-size: 1em;
+  height: auto;
 }
 #container2 {
   align-items: center;
@@ -110,9 +111,8 @@ form{
 }
 #btn{
   box-sizing: border-box;
-  height: 4vh;
   align-items: center;
-  padding-bottom: 5%;
+  padding-bottom: 3%;
   padding-top: 1%;
 }
 #hidden1,
