@@ -128,7 +128,6 @@ form{
 .title6,
 .title7,
 .title8{
-  font-size: 1em;
   border: 2px solid white ;
   padding-top:5%;
   padding-left: 4%;
@@ -136,7 +135,7 @@ form{
   height: 78%;
   width: 68%;
   margin: 10%;
-  font-size: 1.5em;
+  font-size : 1.5em;
   font-weight: bolder;
   color: white;
   transform: translate(-0%, -130%);
@@ -163,10 +162,10 @@ form{
 #buttons:hover #img,
 #burned:hover #img,
 #bailey:hover #img{
-  filter: brightness(30%);
+  filter: brightness(38%);
 }
 #darkicon:hover{
-  opacity: 0.5;
+  opacity: 0.9;
 }
 
 #footer{
