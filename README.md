@@ -20,7 +20,7 @@ Landing page design for Delani Studio
 <img src="images/screen5.jpeg" alt=""><br>
 
 ## Setup/Installation Requirements
-* gh repo clone Memory-Wabwile/delani-studio to clone this repository.
+* click on https://github.com/Memory-Wabwile/delani-studio.git to clone this repository.
 * application runs on all browsers
 * This application can run on any software , android , MacOs or windows. it only needs installation which can be done from playstore appstore or any browser
 
