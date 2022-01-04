@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # delani-studio
  Delani studio is a fictional studio that showcases the diffrent activities that they do.
 ## Live site 
@@ -8,7 +7,7 @@ https://memory-wabwile.github.io/name-generator/
 ## Description
  Akan name generator is an application that takes in your birthday and calculates the day of the week that you were born, then outputs your Akan name depending on your gender. Akan names are derived from ghanianculture where children are given their first name as aday name which corresponds to the day in the week they were born 
 ## Design
-<img src="images/screen1/" alt="">
+<img src="images/screen1" alt="">
 
 ## Setup/Installation Requirements
 click to clone this repository.
@@ -50,6 +49,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.)
-=======
 
->>>>>>> a4c7d4608c73aa9f4928ef172eaf952d5e219382
