@@ -1,34 +1,49 @@
 # delani-studio
  Delani studio is a fictional studio that showcases the diffrent activities that they do.
+
 ## Live site 
 https://memory-wabwile.github.io/name-generator/
+
 ## Author 
-*{Wabwile Memory}*
+Wabwile Memory
+
 ## Description
  Akan name generator is an application that takes in your birthday and calculates the day of the week that you were born, then outputs your Akan name depending on your gender. Akan names are derived from ghanianculture where children are given their first name as aday name which corresponds to the day in the week they were born 
+
 ## Design
+Landing page design for Delani Studio
 <img src="images/screen1.jpeg" alt="">
+<img src="images/screen2.jpeg" alt="">
+<img src="images/screen3.jpeg" alt="">
+<img src="images/screen4.jpeg" alt="">
+<img src="images/screen5.jpeg" alt="">
 
 ## Setup/Installation Requirements
 click to clone this repository.
 * application runs on all browsers
-* requires a minimum of 2gb ram
-* requires data bundles for it to run effeciently
+* 
  This application can run on any software , android , macos or windows. it only needs installation which can be done from playstore appstore or any browser
+
 ## Known Bugs
 currently there are no identified bugs of the system 
+
 ## Technologies Used
 1.Html - for the front end design<br>
 2.Css - for styling the page<br>
 3.Javascript - for adding functionality<br>
-4. Bootstrap - for responsiveness<br>
-5. Jquery - for functionality<br>
-## Beahaviour Driven Development
-Click on the " what we do" icons to see the description of each.
-Hover around the portfolio images to see the title of the project.
-The user iputs their name , email and message and this details will be saved by delani studios.
+4.Bootstrap - for responsiveness<br>
+5.Jquery - for functionality<br>
+
+## Behaviour Driven Development
+<ul>
+<li>Click on the " what we do" icons to see the description of each.</li><br>
+<li>Hover around the portfolio images to see the title of the project.<li><br>
+<li>The user iputs their name , email and message and after clicking on submit button , this details will be saved by delani studios, and the user will receive a pop message informing them if their message has been received.</li><br>
+</ul>
+
 ## Support and contact details
-Contact me at memorywabwile@gmail.com incase of any querries.
+Contact me at memorywabwile@gmail.com for any querries or inquiries.
+
 ### License
 Copyright (c) {2021} *{Wabwile Memory}*
 
