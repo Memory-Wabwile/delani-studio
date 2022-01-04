@@ -19,11 +19,11 @@ click to clone this repository.
 ## Known Bugs
 currently there are no identified bugs of the system 
 ## Technologies Used
-1.Html - for the front end design
-2.Css - for styling the page
-3.Javascript - for adding functionality
-4. Bootstrap - for responsiveness
-5. Jquery - for functionality
+1.Html - for the front end design<br>
+2.Css - for styling the page<br>
+3.Javascript - for adding functionality<br>
+4. Bootstrap - for responsiveness<br>
+5. Jquery - for functionality<br>
 ## Beahaviour Driven Development
 Click on the " what we do" icons to see the description of each.
 Hover around the portfolio images to see the title of the project.
