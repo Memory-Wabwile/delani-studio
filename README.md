@@ -7,7 +7,7 @@ https://memory-wabwile.github.io/name-generator/
 ## Description
  Akan name generator is an application that takes in your birthday and calculates the day of the week that you were born, then outputs your Akan name depending on your gender. Akan names are derived from ghanianculture where children are given their first name as aday name which corresponds to the day in the week they were born 
 ## Design
-<img src="images/screen1" alt="">
+<img src="images/screen1.jpeg" alt="">
 
 ## Setup/Installation Requirements
 click to clone this repository.
