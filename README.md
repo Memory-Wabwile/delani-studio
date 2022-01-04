@@ -2,7 +2,7 @@
  Delani studio is a fictional studio that showcases the different activities carried out in the studio.
 
 ## Live site 
-https://memory-wabwile.github.io/name-generator/
+https://memory-wabwile.github.io/delani-studio/
 
 ## Author 
 Wabwile Memory
@@ -20,10 +20,9 @@ Landing page design for Delani Studio
 <img src="images/screen5.jpeg" alt=""><br>
 
 ## Setup/Installation Requirements
-click to clone this repository.
+* gh repo clone Memory-Wabwile/delani-studio to clone this repository.
 * application runs on all browsers
-* 
-* This application can run on any software , android , macos or windows. it only needs installation which can be done from playstore appstore or any browser
+* This application can run on any software , android , MacOs or windows. it only needs installation which can be done from playstore appstore or any browser
 
 ## Known Bugs
 currently there are no identified bugs of the system 
@@ -41,6 +40,8 @@ currently there are no identified bugs of the system
 <li>Hover around the portfolio images to see the title of the project.<li><br>
 <li>The user iputs their name , email and message and after clicking on submit button , this details will be saved by delani studios, and the user will receive a pop message informing them if their message has been received.</li><br>
 </ul>
+## Contributions
+contributors are welcome.. click on and make a pull request
 
 ## Support and contact details
 Contact me at memorywabwile@gmail.com for any querries or inquiries.
