@@ -22,6 +22,7 @@ $(document).ready(function () {
 
 //end of WHAT WE DO
 
+
 //PORTFOLIO HOVER
 
 $("#darkicon").hover(
@@ -98,16 +99,14 @@ $("#bailey").hover(
 
 //end of portfolio
 
+
 //form validation
 
 $("form").on("submit", function (e) {
   e.preventDefault();
   var name = $("#inputName").val();
   alert(
-    "Hello" +
-      " " +
-      name +
-      ",\nWe have received your message. " +
+    "Hello" + " " + name + ",\nWe have received your message. " +
       "\nThank you for contacting us at Delani Studio."
   );
 

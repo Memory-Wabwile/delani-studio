@@ -21,9 +21,9 @@ body {
   justify-content: center;
   padding-top: 17%;
   text-align: center;
-  font-size: 25px
+  font-size: 25px;
 }
-#container4{
+#container4 {
   background-image: url("images/delaniA.jpg");
   height: auto;
   width: 100%;
@@ -31,45 +31,43 @@ body {
   background-size: contain;
   background-size: 100% 100%;
   background-repeat: no-repeat;
- text-align: center;
- font-size: 23px;
- padding:4em;
+  text-align: center;
+  font-size: 23px;
+  padding: 4em;
 }
 
-#design{
+#design {
   align-items: center;
   text-align: center;
   height: auto;
 }
-#development{
-  align-items: center;
-  text-align: center;
-  height: auto;
-  
-}
-#management{
+#development {
   align-items: center;
   text-align: center;
   height: auto;
 }
-#about1{
-  width: 40%;
-  height:13vh;
+#management {
+  align-items: center;
+  text-align: center;
+  height: auto;
 }
-#about4{
+#about1 {
   width: 40%;
-  height:13vh;
+  height: 13vh;
 }
-#about5{
+#about4 {
   width: 40%;
-  height:13vh;
+  height: 13vh;
 }
-#portfolio{
+#about5 {
+  width: 40%;
+  height: 13vh;
+}
+#portfolio {
   width: 90%;
   padding-left: 14%;
-  
 }
-#contact{
+#contact {
   background-image: url("images/delaniC.jpg");
   height: auto;
   width: 100%;
@@ -79,13 +77,13 @@ body {
   background-repeat: no-repeat;
   padding: 5% 10%;
 }
-form{
+form {
   box-sizing: border-box;
 }
 #inputName,
 #inputEmail,
 #inputMessage,
-#btn{
+#btn {
   border: 1px solid white;
   background: transparent;
   color: white;
@@ -93,23 +91,23 @@ form{
   font-size: 1.5em;
 }
 #inputName,
-#inputEmail{
+#inputEmail {
   border-bottom: 1px solid rgb(153, 142, 142);
 }
 
 #inputName::placeholder,
 #inputEmail::placeholder,
-#inputMessage::placeholder{
+#inputMessage::placeholder {
   color: white;
 }
-#inputMessage{
+#inputMessage {
   height: 26vh;
   padding-top: 3%;
   padding-bottom: 23%;
   margin-left: 5%;
   width: 95%;
 }
-#btn{
+#btn {
   box-sizing: border-box;
   align-items: center;
   padding-bottom: 3%;
@@ -117,7 +115,7 @@ form{
 }
 #hidden1,
 #hidden2,
-#hidden3{
+#hidden3 {
   display: none;
 }
 .title,
@@ -127,15 +125,15 @@ form{
 .title5,
 .title6,
 .title7,
-.title8{
-  border: 2px solid white ;
-  padding-top:5%;
+.title8 {
+  border: 2px solid white;
+  padding-top: 5%;
   padding-left: 4%;
   position: absolute;
   height: 78%;
   width: 68%;
   margin: 10%;
-  font-size : 1.5em;
+  font-size: 1.5em;
   font-weight: bolder;
   color: white;
   transform: translate(-0%, -130%);
@@ -150,9 +148,8 @@ form{
 #goodday,
 #buttons,
 #burned,
-#bailey{
+#bailey {
   position: relative;
-
 }
 #darkicon #img:hover,
 #ontario:hover #img,
@@ -161,16 +158,13 @@ form{
 #goodday:hover #img,
 #buttons:hover #img,
 #burned:hover #img,
-#bailey:hover #img{
+#bailey:hover #img {
   filter: brightness(38%);
 }
-#darkicon:hover{
+#darkicon:hover {
   opacity: 0.9;
 }
 
-#footer{
-  padding-left:1% ;
+#footer {
+  padding-left: 1%;
 }
-
-
-
