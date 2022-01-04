@@ -39,9 +39,10 @@ currently there are no identified bugs of the system
 <li>Click on the " what we do" icons to see the description of each.</li><br>
 <li>Hover around the portfolio images to see the title of the project.<li><br>
 <li>The user iputs their name , email and message and after clicking on submit button , this details will be saved by delani studios, and the user will receive a pop message informing them if their message has been received.</li><br>
-</ul>
+</ul><r>
+
 ## Contributions
-contributors are welcome.. click on and make a pull request
+contributors are welcome.. click on  https://github.com/Memory-Wabwile/delani-studio.git and make a pull request then commit the changes
 
 ## Support and contact details
 Contact me at memorywabwile@gmail.com for any querries or inquiries.
