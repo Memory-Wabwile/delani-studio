@@ -2,9 +2,11 @@
   font-family: Roboto;
   src: url("Roboto_font/Roboto-Regular.ttf");
 }
+
 body {
-  font-family: Roboto;
+  font-family: Roboto , sans-serif;
 }
+
 #container1 {
   background-image: url("images/delaniB.jpg");
   background-position: center;
@@ -16,6 +18,7 @@ body {
   font-size: 1em;
   height: auto;
 }
+
 #container2 {
   align-items: center;
   justify-content: center;
@@ -23,6 +26,7 @@ body {
   text-align: center;
   font-size: 25px;
 }
+
 #container4 {
   background-image: url("images/delaniA.jpg");
   height: auto;
@@ -41,32 +45,39 @@ body {
   text-align: center;
   height: auto;
 }
+
 #development {
   align-items: center;
   text-align: center;
   height: auto;
 }
+
 #management {
   align-items: center;
   text-align: center;
   height: auto;
 }
+
 #about1 {
   width: 40%;
   height: 13vh;
 }
+
 #about4 {
   width: 40%;
   height: 13vh;
 }
+
 #about5 {
   width: 40%;
   height: 13vh;
 }
+
 #portfolio {
   width: 90%;
   padding-left: 14%;
 }
+
 #contact {
   background-image: url("images/delaniC.jpg");
   height: auto;
@@ -77,9 +88,11 @@ body {
   background-repeat: no-repeat;
   padding: 5% 10%;
 }
+
 form {
   box-sizing: border-box;
 }
+
 #inputName,
 #inputEmail,
 #inputMessage,
@@ -90,6 +103,7 @@ form {
   height: 6vh;
   font-size: 1.5em;
 }
+
 #inputName,
 #inputEmail {
   border-bottom: 1px solid rgb(153, 142, 142);
@@ -100,6 +114,7 @@ form {
 #inputMessage::placeholder {
   color: white;
 }
+
 #inputMessage {
   height: 26vh;
   padding-top: 3%;
@@ -107,17 +122,20 @@ form {
   margin-left: 5%;
   width: 95%;
 }
+
 #btn {
   box-sizing: border-box;
   align-items: center;
   padding-bottom: 3%;
   padding-top: 1%;
 }
+
 #hidden1,
 #hidden2,
 #hidden3 {
   display: none;
 }
+
 .title,
 .title2,
 .title3,
@@ -128,7 +146,6 @@ form {
 .title8 {
   border: 2px solid white;
   padding-top: 5%;
-  padding-left: 4%;
   position: absolute;
   height: 78%;
   width: 68%;
@@ -138,9 +155,11 @@ form {
   color: white;
   transform: translate(-0%, -130%);
   display: none;
+  text-align: center;
   transition: opacity 0.5s ease-in-out;
   /* background-color: rgba(0,0,0,0.6); */
 }
+
 #darkicon,
 #ontario,
 #orange,
@@ -151,6 +170,7 @@ form {
 #bailey {
   position: relative;
 }
+
 #darkicon #img:hover,
 #ontario:hover #img,
 #orange:hover #img,
@@ -161,6 +181,7 @@ form {
 #bailey:hover #img {
   filter: brightness(38%);
 }
+
 #darkicon:hover {
   opacity: 0.9;
 }
